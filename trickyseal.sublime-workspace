@@ -23,6 +23,32 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "work.txt",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Windows",
+				"name": "work"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Windows",
+				"name": "test"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -64,6 +90,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/bob/Documents/My Dropbox/trickyseal/trickyseal-website/indes.html",
+		"/C/Users/bob/Documents/My Dropbox/trickyseal/trickyseal-website/trickyseal.sublime-project",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/opp.sublime-project",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/test.html",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/index.html",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/js/grayscale.js",
@@ -74,7 +103,6 @@
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/slider/index.html",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/.gitignore",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/list.txt",
-		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/opp.sublime-project",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/css/grayscale.css",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/gallery-img/list",
 		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/js/grayscale orig.js",
@@ -388,8 +416,89 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "work.txt",
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"auto_name": "work",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.html",
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -399,7 +508,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -449,6 +558,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 114.0,
+	"side_bar_width": 322.0,
 	"status_bar_visible": true
 }

@@ -40,3 +40,5 @@ Icon
 *.sublime-workspace
 # =========================
 *.sublime-workspace
+*.sublime-workspace
+trickyseal.sublime-workspace
