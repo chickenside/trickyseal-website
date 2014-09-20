@@ -1,0 +1,454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"scr",
+				"scrollify"
+			],
+			[
+				"j",
+				"jquery"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/test.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/index.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/js/grayscale.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/1411139478.layoutit.html",
+		"/C/Users/bob/Downloads/1411139478.layoutit.html",
+		"/C/Users/bob/Documents/My Dropbox/cygwin/lexx/home/bob/bob-laptop.sh",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/slider/work.txt",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/slider/index.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/.gitignore",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/list.txt",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/opp.sublime-project",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/css/grayscale.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/gallery-img/list",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/js/grayscale orig.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/map.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/OgdenParkartPr.csv",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/index.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/css/grayscale.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/ProwlCopy.html",
+		"/C/Users/bob/Desktop/1407453593.layoutit.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/js/grayscale.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/grayscale orig.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/thumbnails/thumbnails.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/image-work.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/js/bootstrap-image-gallery.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/js/demo.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/css/demo.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/js/jquery.blueimp-gallery.min.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/js/jquery.blueimp-gallery.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/gallery/js/demo.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/gallery/index.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/js/blueimp-gallery-fullscreen.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/css/bootstrap-image-gallery.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/gallery/js/bootstrap-image-gallery.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/gallery/css/demo.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/gallery/README.md",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/gallery/Gruntfile.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/work/20140806200804/ats00000.htm",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/config.xml",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/jbcore/juicebox.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/jbcore/full.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/index2.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/website/dev/Bootstrap-Image-Gallery-3.1.1/README.md",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/index.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/js/grayscale.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/css/grayscale.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/css/bootstrap.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/map.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/map.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/orig.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/css/grayscale orig.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/dev/js/grayscale orig.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/index.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/css/grayscale.css",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/js/grayscale.js",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/grayscale/index.html",
+		"/C/Users/bob/Documents/My Dropbox/ogdenparkprowl/grayscale/css/grayscale.css",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/index.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/index - Copy.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/css/grayscale.css",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/css/main.css",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/css/bootstrap.css",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/index.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/js/jquery.scrollify.js",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/js/main.js",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/index.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/js/grayscale.js",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/css/bootstrap.css",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/map.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/map4.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/map5.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/js/grayscale - Copy.js",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/less/grayscale.less",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/less/mixins.less",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/less/variables.less",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/css/bootstrap.min.css",
+		"/C/Users/bob/Documents/ogdenparkprowl/grayscale/js/bootstrap.js",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/map3.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/map2.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/opp8.kml",
+		"/C/Users/bob/Documents/ogdenparkprowl/test2.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/js/jquery.scrollify.min.js",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/js/jquery.easing.min.js",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/Scrollify-master/README.md",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/scroll.html",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/css/scrolling-nav.css",
+		"/C/Users/bob/Documents/ogdenparkprowl/new/test.html",
+		"/C/Users/bob/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Prowl </span>",
+			"Prowl</span>",
+			"span",
+			"<li></li>\\n                        <br>",
+			"<li></li>",
+			"<li></li>\\R<br>",
+			"<li></li>\\n<br>",
+			"<li></li> ",
+			"<li></li>\\R",
+			"<li></li>\"\\R\"",
+			"<li></li>\\R",
+			"<li></li>\\n<br>",
+			"<li></li>\"\\r\"",
+			"<li></li>\\r<br>",
+			"<li></li>",
+			"Prowl</span>",
+			"<a href=t arget=_blank>",
+			" </a>",
+			"<a href= target=_blank>",
+			"<a href=t arget=_blank>",
+			"Prowl</span>",
+			"font-size",
+			"<li>",
+			"list-inline",
+			"\"",
+			"col-sm-2 col-xs-6",
+			"col-sm-2 col-xs-4",
+			"Prowl</span>",
+			"map-page",
+			"<ul class=\"list-group\">",
+			"<li class=\"list-group-item\">",
+			"<ul class=\"list-group\">",
+			"<li>",
+			"thumbnail",
+			"block",
+			"Thumbnail label",
+			"<a class=\"btn btn-primary\" href=\"#\">Gallery</a> <a class=\"btn\" href=\"#\">Website</a> <a class=\"btn\" href=\"#\">Directions</a>",
+			"<a class=\"btn btn-primary\" href=\"#\">Gallery</a> <a class=\"btn\" href=\"#\">Website</a>",
+			"<a class=\"btn\" href=\"#\">Action</a>",
+			"<a class=\"btn btn-primary\" href=\"#\">Action</a>",
+			"Action</a>",
+			"ol-sm-2 col-xs-4",
+			"<h3>",
+			"Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+			"col-md-2 col-xs-4",
+			"col-lg-2 col-xs-4",
+			"col-xs-3",
+			"col-xs-4",
+			"col-sm-6 col-md-4",
+			"xs-6",
+			"col-xs-6 col-md-4",
+			"col-xs-12 col-sm-6 col-lg-8",
+			"col-sm-6 col-md-3",
+			"/bootstrap/images/kittens.jpg",
+			"thumbnail",
+			"thumb",
+			"<div class=\"thumbnail\">",
+			"alt=\"300x200\"",
+			"col-md-4",
+			"<a href=t arget=_blank>Website</a> \\| ",
+			"Prowl</span>",
+			"jeau",
+			"Prowl</span>",
+			"<a href=t arget=_blank>Website</a> \\| ",
+			"Prowl</span>",
+			"<br><a href=t arget=_blank>Website</a> \\| ",
+			"Prowl</span>",
+			"Holl",
+			"holl",
+			"test2",
+			"map-section",
+			"Prowl</span>",
+			"span",
+			"Tamm",
+			"responibly",
+			"Prowl</span>",
+			"span",
+			"<a href= target=_blank>Website</a><br><br>",
+			"art-museum-2.png",
+			"Prowl</span>",
+			"</span>",
+			"Prowl</span>",
+			"<span class=\"light\">Prowl</span>",
+			"\"",
+			"Direct",
+			"ul",
+			"header",
+			"intro",
+			"oppflyer",
+			"<a href= target=_blank>Website</a><br><br>",
+			"Sweatman",
+			"<a href= target=_blank>Website</a><br><br>",
+			"sweatman",
+			"visit",
+			"preser",
+			"mapOpt",
+			"zoom",
+			"center",
+			"zoom",
+			"sidebar",
+			"prowl",
+			"<a href= target=_blank>Website</a><br><br>",
+			"image",
+			"<a href= target=_blank>Website</a><br><br>",
+			"<a href= target=_blank>Website</a><br>",
+			"map",
+			"size",
+			"false",
+			"true",
+			"false",
+			"<br><a href= target=_blank>Website</a>",
+			"<a href= target=_blank>Website</a>",
+			"Brumfield",
+			"colla",
+			".navbar-fixed",
+			"images",
+			"insane",
+			"lead",
+			"contact",
+			"spons",
+			"map",
+			"light",
+			"id=\"cont",
+			"gall",
+			"fff",
+			"#fff",
+			"respons",
+			"responsive"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"Prowl </span>",
+			"",
+			"Prowl </span>",
+			"<li class=\"list-group-item\">",
+			"list-group",
+			"CHAR(34)",
+			"col-sm-3 col-xs-6",
+			"col-sm-4 col-xs-6",
+			"col-sm-2 col-xs-6",
+			"col-sm-2 col-xs-8",
+			"col-sm-2 col-xs-1",
+			"col-sm-2 col-xs-2",
+			"col-sm-2 col-xs-8",
+			"col-sm-2 col-xs-6",
+			"Prowl </span>",
+			"<ul class=\"list-inline\">",
+			"<li>",
+			"<ul class=\"list-inline\">",
+			"<li class=\"list-group-item\">",
+			"John Guillory",
+			"<a class=\"btn btn-primary\" href=\"#\">Gallery</a> <a class=\"btn\" href=\"#\">Website</a>",
+			"<a class=\"btn btn-primary\" href=\"#\">Gallery</a> <a class=\"btn\" href=\"#\">Website</a> <a class=\"btn\" href=\"#\">Directions</a>",
+			"<a class=\"btn\" href=\"#\">Website</a>",
+			"<a class=\"btn btn-primary\" href=\"#\">Gallery</a>",
+			"Gallery",
+			"ol-sm-2 col-xs-4 text-center",
+			"<h4>",
+			"Paintings, art and things",
+			"col-sm-2 col-xs-4",
+			"col-md-2 col-xs-4",
+			"col-lg-2 col-xs-4",
+			"col-lg-3 col-xs-6",
+			"col-lg-8 col-xs-3",
+			"col-lg-3 col-xs-3",
+			"col-xs-3 col-md-3",
+			"col-xs-3 col-md-6",
+			"col-xs-3",
+			"col-xs-6",
+			"col-xs-4",
+			"sm-6",
+			"col-xs-8",
+			"col-xs-6 col-md-4",
+			"col-xs-12 col-sm-6 col-lg-8",
+			"thumbnails/Charles Barbier 03.jpg",
+			"",
+			"col-md-2",
+			"col-md-1",
+			"",
+			"Prowl </span>",
+			"",
+			"Prowl </span>",
+			"",
+			"Prowl </span>",
+			"",
+			"asterisco.png",
+			"Prowl </span>",
+			"</span> ",
+			"Prowl </span>",
+			"<span class=\"light\">Prowl </span>",
+			"CHAR(34)",
+			"",
+			"Swetman",
+			"",
+			"swetman",
+			"<span class=\"light\">Prowl</span>",
+			"",
+			"gallery-img",
+			"../thumbnails",
+			"../images/",
+			".sb_round",
+			".about-section",
+			"",
+			"js/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 114.0,
+	"status_bar_visible": true
+}
